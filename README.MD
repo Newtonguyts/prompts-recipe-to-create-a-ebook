@@ -19,8 +19,6 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 Você é um especialista em investimentos e vai me ajudar na criação de conteúdo para um ebook sobre esse tema. Diga apenas OK se entendeu.                                                        |
 Vamos criar uma introdução em dois paragrafos para nosso ebook sobre investimentos. Escreva como se fosse para um público completamente leigo no assunto.
 
@@ -42,11 +40,9 @@ Certo! para o sétimo capítulo, intitulado: Detalhando os tipos de investimento
 
 Certo! Agora escreva dois paragrafos com o título: A hora de começar é agora. Enfatize a importancia de começar a investir o mais cedo possível.
 
-
 Leonardo IA
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | create a minimalist cover for an ebook, with an investment theme, containing a simple graph that shows the evolution of money invested over time. |
+
+create a minimalist cover for an ebook, with an investment theme, containing a simple graph that shows the evolution of money invested over time.
 
 ## ✨ Features
 
