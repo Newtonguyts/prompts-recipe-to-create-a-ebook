@@ -11,7 +11,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [LeonardoIA](https://app.leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -21,15 +21,32 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+Você é um especialista em investimentos e vai me ajudar na criação de conteúdo para um ebook sobre esse tema. Diga apenas OK se entendeu.                                                        |
+Vamos criar uma introdução em dois paragrafos para nosso ebook sobre investimentos. Escreva como se fosse para um público completamente leigo no assunto.
+
+Agora escreva em quatro parágrafos o primeiro capítulo do ebook, cujo título será: Por que investir é importante?. Lembre-se de usar uma linguagem clara, para que um iniciante entenda. Use exemplos que facilitem o entendimento.
+
+Ótimo! Agora, seguindo a mesma forma de linguagem do capítulo 1, escreva em quatro paragrafos o segundo capítulo, intitulado: O que são investimentos?. 
+
+Escreva agora quatro parágrafos para o terceiro capítulo, intitulado: conhecendo seu perfil de investidor. Lembre-se de usar uma linguagem simples como se falasse para um leigo no assunto.
+
+Seguindo a mesma lógica de escrita do capítulo 3, escreva quatro paragrafos para o capítulo 4, chamado: O poder dos juros compostos.
+
+Ótimo! Preciso agora de mais quatro paragrafos para o quinto capítulo, intitulado: Como começar a investir. 
+
+Ótimo! Escreva mais 4 parágrafos para o sexto capítulo. o título será: Erros comuns ao investir e como evita-los. Siga a mesma forma de escrita dos capítulos anteriores. 
+
+Certo! para o sétimo capítulo, intitulado: Detalhando os tipos de investimentos. Descreva de forma breve, para que um leigo entenda, os tipos de ativos para se investir, dando exemplos. Escreva em quatro parágrafos.
+
+Ótimo! Para o capítulo 8, de nome, ferramentas e recursos úteis, liste uma série de aplicativos, sites, livros e algo mais que julgar interessante para que o investidor iniciante continue se aperfeiçoando em sua jornada como investidor.
+
+Certo! Agora escreva dois paragrafos com o título: A hora de começar é agora. Enfatize a importancia de começar a investir o mais cedo possível.
 
 
-Midjourney：
-
+Leonardo IA
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | create a minimalist cover for an ebook, with an investment theme, containing a simple graph that shows the evolution of money invested over time. |
 
 ## ✨ Features
 
