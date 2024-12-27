@@ -47,7 +47,7 @@ create a minimalist cover for an ebook, with an investment theme, containing a s
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via LeonardoAI
 
 ## 📚 Materiais
 
@@ -82,5 +82,3 @@ felipe-exe">LinkedIn</a>
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
