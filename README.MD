@@ -6,7 +6,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Newtonguyts/prompts-recipe-to-create-a-ebook/blob/main/Descomplicando%20os%20investimentos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -48,11 +48,6 @@ create a minimalist cover for an ebook, with an investment theme, containing a s
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via LeonardoAI
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
